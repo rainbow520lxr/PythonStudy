@@ -1,0 +1,13 @@
+python数据结构
+    number（数字型）
+        整型
+        浮点数
+        复数
+    String（字符串）python中没有字符的概念
+    Boolean（布尔型）
+    None（空值）
+    list（列表）
+    tuple（元祖）
+    dict（字典）
+    set（集合）
+

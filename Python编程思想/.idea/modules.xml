@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CNN学习/.idea/CNN学习.iml" filepath="$PROJECT_DIR$/../CNN学习/.idea/CNN学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python编程思想.iml" filepath="$PROJECT_DIR$/.idea/Python编程思想.iml" />
+    </modules>
+  </component>
+</project>

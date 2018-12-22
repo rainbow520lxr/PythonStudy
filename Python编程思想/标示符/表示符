@@ -1,0 +1,30 @@
+标示符（变量名，函数名等）
+    什么是标识符
+        是一串字符串（注意：字符串未必是标示符）
+    规则
+        只能由字母、数字、下划线组成
+        开头不能是数字**
+        不能是Python的关键字，保留字（当前不为关键字，在以后可能成为关键字）
+            关键字：import keyword print(keyword.kwlist)
+            ['False', 'None', 'True', 'and', 'as',
+             'assert', 'break', 'class', 'continue',
+             'def', 'del', 'elif', 'else', 'except',
+             'finally', 'for', 'from', 'global', 'if',
+             'import', 'in', 'is', 'lambda', 'nonlocal',
+             'not', 'or', 'pass', 'raise', 'return', 'try',
+             'while', 'with', 'yield']
+        区分大小写
+        见名知意
+        遵循驼峰原则
+            首单词是正常的，从第二个单词开始首字母大写
+            例如：sunckGoodMan
+    作用
+        给变量，函数命名
+    注意
+        在python3中，非ASCII也可以充当标识符（例如汉字也可以充当表示符）
+
+
+
+
+
+
