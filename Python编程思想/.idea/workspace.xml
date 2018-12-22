@@ -27,11 +27,11 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-5" />
+    <option name="y" value="25" />
     <option name="width" value="1346" />
-    <option name="height" value="699" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
