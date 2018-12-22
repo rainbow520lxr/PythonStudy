@@ -6,7 +6,9 @@
 
 
 '''
-
-
 print("bzaaaaa" < "bazzzzz")
 print("a" < "z")
+
+#求字符串中最大的字符,按照ASCII值来比较的
+print(max("lixin"))
+print(min("lixin"))

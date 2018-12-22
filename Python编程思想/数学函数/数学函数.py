@@ -37,6 +37,9 @@ print(random.choice([1, 3, 5, 7, 9, "aa"]))#从序列中随机选取一个数,�
 print(random.choice(range(5)))#range(5) == [0, 1, 2, 3, 4]
 print(random.choice("sunck"))#"sunck" == ["s", "u", "n", "c", "k"]将其看成一个序列
 
+''''''
+
+
 #产生一个1~100之间的随机数
 r1 = random.choice(range(10)) + 1#生成一个1到10的数
 print(r1)
