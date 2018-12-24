@@ -8,7 +8,7 @@ def outer(fun):
 
 #可以使用@符号将装饰器应用到函数
 #python2.4开始可以用
-@outer
+@outer #相当于say = outer(say)
 def say(age):
     print("lxr is %d years old" % (age))
 
