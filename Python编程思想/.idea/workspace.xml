@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1443560-ee0f-4a3e-8883-94ead118b171" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/装饰器/装饰器的简洁使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/装饰器/装饰器简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1443560-ee0f-4a3e-8883-94ead118b171" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,20 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/装饰器/装饰器简介.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="26" selection-start-line="26" selection-end-line="27" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/装饰器/装饰器的简洁使用.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -103,9 +90,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-5" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="118" />
+    <option name="y" value="62" />
     <option name="width" value="998" />
     <option name="height" value="656" />
   </component>
@@ -376,7 +363,7 @@
       <workItem from="1545450279522" duration="116000" />
       <workItem from="1545450399478" duration="17012000" />
       <workItem from="1545538588823" duration="13845000" />
-      <workItem from="1545633019185" duration="1713000" />
+      <workItem from="1545633019185" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1545452592269</created>
@@ -389,10 +376,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34061000" />
+    <option name="totallyTimeSpent" value="34273000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="75" width="998" height="656" extended-state="1" />
+    <frame x="118" y="62" width="998" height="656" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" weight="0.29104477" />
@@ -681,17 +668,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/装饰器/装饰器简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="26" selection-start-line="26" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/装饰器/装饰器的简洁使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/装饰器/装饰器简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="26" selection-start-line="26" selection-end-line="27" selection-end-column="40" />
         </state>
       </provider>
     </entry>
