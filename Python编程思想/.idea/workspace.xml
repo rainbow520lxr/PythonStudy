@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1443560-ee0f-4a3e-8883-94ead118b171" name="Default Changelist" comment="" />
+    <list default="true" id="f1443560-ee0f-4a3e-8883-94ead118b171" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数-递归/递归简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/日历模块/日历模块简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/时间模块/datatime模块简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/时间模块/datetime特殊方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/时间模块/time格式显示方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/时间模块/time模块简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/时间模块/计算机性能测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/栈和队列/栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/栈和队列/队列堆列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/__name__属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/__name__属性的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/使用标准库中的模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/使用自定义模块(from ... import 星).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/使用自定义模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/使用自定义模块（from ...import ...).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/模块概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/模块/自定义模块/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/目录遍历/栈模拟递归遍历先进后出（深度遍历）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/目录遍历/递归遍历目录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/目录遍历/队列模拟递归遍历先进先出（广度遍历层级处理）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,26 +33,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python$from____import_____.coverage" NAME="使用自定义模块（from ...import ...) Coverage Results" MODIFIED="1545985198562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/Python$list.coverage" NAME="list方法 Coverage Results" MODIFIED="1545459276563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list[列表类型]" />
+    <SUITE FILE_PATH="coverage/Python$__name__.coverage" NAME="__name__属性 Coverage Results" MODIFIED="1545987875311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/Python$template.coverage" NAME="template Coverage Results" MODIFIED="1545987757436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
     <SUITE FILE_PATH="coverage/Python$for.coverage" NAME="for循环 Coverage Results" MODIFIED="1545460886380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/控制流" />
     <SUITE FILE_PATH="coverage/Python$__.coverage" NAME="字符串[比较大小] Coverage Results" MODIFIED="1545468328586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string[字符串类型]" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="装饰器的简洁使用 Coverage Results" MODIFIED="1545634746125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/装饰器" />
+    <SUITE FILE_PATH="coverage/Python$datatime.coverage" NAME="datatime Coverage Results" MODIFIED="1545981314386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/时间模块" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="使用自定义模块 Coverage Results" MODIFIED="1545984799037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
     <SUITE FILE_PATH="coverage/Python$breakcontinue.coverage" NAME="break语句与continue语句 Coverage Results" MODIFIED="1545462619642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/控制流" />
     <SUITE FILE_PATH="coverage/Python$set.coverage" NAME="set简介 Coverage Results" MODIFIED="1545541360122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set[集合数据类型]" />
     <SUITE FILE_PATH="coverage/Python$turtle.coverage" NAME="turtle模块绘图 Coverage Results" MODIFIED="1545463932291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle模块绘图" />
-    <SUITE FILE_PATH="coverage/Python$list.coverage" NAME="list方法 Coverage Results" MODIFIED="1545459276563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list[列表类型]" />
     <SUITE FILE_PATH="coverage/Python$is.coverage" NAME="字符串is类方法 Coverage Results" MODIFIED="1545470008453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string[字符串类型]" />
+    <SUITE FILE_PATH="coverage/Python$datetime.coverage" NAME="datetime特殊方法 Coverage Results" MODIFIED="1545981363195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/时间模块" />
+    <SUITE FILE_PATH="coverage/Python$_from_____import__.coverage" NAME="使用自定义模块(from ... import 星) Coverage Results" MODIFIED="1545985888755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
     <SUITE FILE_PATH="coverage/Python$tuple.coverage" NAME="tuple元组简介 Coverage Results" MODIFIED="1545466369512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple[元祖类型]" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/窗口控制/控制窗体的显示和隐藏.py">
+        <entry file="file://$PROJECT_DIR$/模块/__name__属性.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/模块/__name__属性的使用.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/模块/template.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -54,17 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list[列表类型]/list方法.py" />
-        <option value="$PROJECT_DIR$/控制流/条件控制语句.py" />
-        <option value="$PROJECT_DIR$/控制流/死循环.py" />
-        <option value="$PROJECT_DIR$/控制流/for循环.py" />
-        <option value="$PROJECT_DIR$/控制流/在集合中的for循环.py" />
-        <option value="$PROJECT_DIR$/控制流/控制流的简洁使用.py" />
-        <option value="$PROJECT_DIR$/控制流/控制流表达式.py" />
-        <option value="$PROJECT_DIR$/控制流/break语句.py" />
-        <option value="$PROJECT_DIR$/控制流/break语句与continue语句.py" />
-        <option value="$PROJECT_DIR$/turtle模块绘图/turtle模块绘图.py" />
-        <option value="$PROJECT_DIR$/数学函数/数学函数.py" />
         <option value="$PROJECT_DIR$/tuple[元祖类型]/元组的操作.py" />
         <option value="$PROJECT_DIR$/tuple[元祖类型]/元组的方法.py" />
         <option value="$PROJECT_DIR$/string[字符串类型]/字符串.py" />
@@ -90,14 +124,40 @@
         <option value="$PROJECT_DIR$/函数/匿名函数.py" />
         <option value="$PROJECT_DIR$/装饰器/装饰器简介.py" />
         <option value="$PROJECT_DIR$/装饰器/装饰器的简洁使用.py" />
+        <option value="$PROJECT_DIR$/函数-递归/递归简介.py" />
+        <option value="$PROJECT_DIR$/栈和队列/队列.py" />
+        <option value="$PROJECT_DIR$/栈和队列/栈.py" />
+        <option value="$PROJECT_DIR$/目录遍历/递归遍历目录.py" />
+        <option value="$PROJECT_DIR$/目录遍历/栈模拟递归遍历（深度遍历）.py" />
+        <option value="$PROJECT_DIR$/目录遍历/队列模拟递归遍历（广度遍历）.py" />
+        <option value="$PROJECT_DIR$/栈和队列/队列堆列.py" />
+        <option value="$PROJECT_DIR$/目录遍历/队列模拟递归遍历先进先出（广度遍历层级处理）.py" />
+        <option value="$PROJECT_DIR$/时间模块/时间模块方法.py" />
+        <option value="$PROJECT_DIR$/时间模块/时间其他重要操作方法.py" />
+        <option value="$PROJECT_DIR$/时间模块/计算机性能测试.py" />
+        <option value="$PROJECT_DIR$/时间模块/时间模块简介.py" />
+        <option value="$PROJECT_DIR$/时间模块/datatime.py" />
+        <option value="$PROJECT_DIR$/时间模块/datatime模块简介.py" />
+        <option value="$PROJECT_DIR$/时间模块/datetime特殊方法.py" />
+        <option value="$PROJECT_DIR$/时间模块/time其他重要操作方法.py" />
+        <option value="$PROJECT_DIR$/日历模块/日历模块简介.py" />
+        <option value="$PROJECT_DIR$/模块/模块概述.py" />
+        <option value="$PROJECT_DIR$/模块/使用标准库中的模块.py" />
+        <option value="$PROJECT_DIR$/模块/自定义模块.py" />
+        <option value="$PROJECT_DIR$/模块/使用自定义模块.py" />
+        <option value="$PROJECT_DIR$/模块/使用自定义模块（from ...import ...).py" />
+        <option value="$PROJECT_DIR$/模块/使用自定义模块(from ... import 星).py" />
+        <option value="$PROJECT_DIR$/模块/__name__属性的使用.py" />
+        <option value="$PROJECT_DIR$/模块/__name__属性.py" />
+        <option value="$PROJECT_DIR$/模块/template.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="226" />
-    <option name="y" value="41" />
-    <option name="width" value="998" />
-    <option name="height" value="656" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="143" />
+    <option name="y" value="118" />
+    <option name="width" value="1096" />
+    <option name="height" value="631" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -107,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,13 +177,17 @@
             </path>
             <path>
               <item name="Python编程思想" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python编程思想" type="462c0819:PsiDirectoryNode" />
+              <item name="模块" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python编程思想" type="b2602c69:ProjectViewProjectNode" />
               <item name="CNN学习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,6 +196,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\模块" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\自定义模块" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,8 +217,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="匿名函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.__name__属性">
+    <configuration name="使用自定义模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程思想" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +226,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数/匿名函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块/使用自定义模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,9 +416,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="__name__属性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程思想" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块/__name__属性.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用自定义模块(from ... import 星)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程思想" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块/使用自定义模块(from ... import 星).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用自定义模块（from ...import ...)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程思想" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块/使用自定义模块（from ...import ...).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程思想" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模块/template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.匿名函数" />
+        <item itemvalue="Python.__name__属性" />
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.使用自定义模块(from ... import 星)" />
+        <item itemvalue="Python.使用自定义模块（from ...import ...)" />
+        <item itemvalue="Python.使用自定义模块" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +531,7 @@
       <workItem from="1545538588823" duration="13845000" />
       <workItem from="1545633019185" duration="1925000" />
       <workItem from="1545822349268" duration="937000" />
+      <workItem from="1545934998427" duration="20079000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1545452592269</created>
@@ -378,28 +544,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35210000" />
+    <option name="totallyTimeSpent" value="55289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="143" y="118" width="1096" height="631" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" weight="0.29104477" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" weight="0.2635135" />
       <window_info id="Structure" order="1" sideWeight="0.50352114" side_tool="true" weight="0.25416037" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.38505748" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.40643862" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3291815" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32902032" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902032" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3276923" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.36037442" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3584559" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -449,53 +615,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/控制流/while语句.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/控制流/while死循环与非死循环else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/控制流/多条件控制语句.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/控制流/单支条件控制语句.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list[列表类型]/list方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/控制流/在集合中的for循环.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/控制流/for与集合表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/控制流/break语句与continue语句.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -687,10 +806,173 @@
     <entry file="file://$PROJECT_DIR$/窗口控制/控制窗体的显示和隐藏.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数-递归/递归简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈和队列/栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list[列表类型]/list操作.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list[列表类型]/list方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/目录遍历/队列模拟递归遍历先进先出（广度遍历层级处理）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈和队列/队列堆列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/目录遍历/栈模拟递归遍历先进后出（深度遍历）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/目录遍历/递归遍历目录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间模块/计算机性能测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间模块/time模块简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间模块/datatime模块简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间模块/time格式显示方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间模块/datetime特殊方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时间模块/time其他重要操作方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日历模块/日历模块简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/自定义模块/template.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/使用自定义模块(from ... import 星).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/使用自定义模块（from ...import ...).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/使用自定义模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/使用标准库中的模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/模块概述.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/__name__属性的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/__name__属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>

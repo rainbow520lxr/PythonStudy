@@ -1,0 +1,13 @@
+list = []
+list.append("A")
+print(list)
+list.append("C")
+print(list)
+list.append("D")
+print(list)
+list.pop()
+print(list)
+list.pop()
+print(list)
+list.pop()
+print(list)
