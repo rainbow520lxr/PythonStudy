@@ -5,6 +5,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="template" />
+          <option value="面向对象的编程思想.继承.单继承实现.student" />
+          <option value="student" />
         </list>
       </option>
     </inspection_tool>
