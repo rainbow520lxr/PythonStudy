@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/单继承实现.py" line="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22f97ccc-28d9-449c-870f-a3db7367d216" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/收发邮件/发消息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件QQ邮箱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/收发邮件/接口信息" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/脚本工具/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/脚本工具/字母排列组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/脚本工具/追溯法字母排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property/@property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/father.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/mother.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/多继承实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/运算重载符/运算重载符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/1.简单实例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkinter/2.Lable控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python编程思想/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/写文件的简单方式.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/文件的读写/写文件的简单方式.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonStudy$2_Lable.coverage" NAME="2.Lable控件 Coverage Results" MODIFIED="1547296596965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$.coverage" NAME="简单实例 Coverage Results" MODIFIED="1547296493478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$_property.coverage" NAME="@property Coverage Results" MODIFIED="1547277907109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property" />
+    <SUITE FILE_PATH="coverage/PythonStudy$QQ.coverage" NAME="发邮件QQ邮箱 Coverage Results" MODIFIED="1547294512623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python编程思想/收发邮件" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tkinter/1.简单实例.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tkinter/2.Lable控件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python编程思想/脚本工具/字母排列组合.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/脚本工具/追溯法字母排列.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/Mother.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/Father.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/Child.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/mother.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/child.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/多继承实现.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态简介.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/cat.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/mouse.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/animal.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/person.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property/@property.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/运算重载符/运算重载符.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/收发邮件/收发邮件.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/收发邮件/接口信息" />
+        <option value="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件QQ邮箱.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/收发邮件/发消息.py" />
+        <option value="$PROJECT_DIR$/Tkinter/简单实例.py" />
+        <option value="$PROJECT_DIR$/Tkinter/2.Lable空间.py" />
+        <option value="$PROJECT_DIR$/Tkinter/2.Lable控件.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="239" />
+    <option name="y" value="137" />
+    <option name="width" value="894" />
+    <option name="height" value="562" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Python编程思想" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Python编程思想" type="462c0819:PsiDirectoryNode" />
+              <item name="收发邮件" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\收发邮件" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2.Lable控件">
+    <configuration name="动态给实例添加属性和方法并使用" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="发消息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/收发邮件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/收发邮件/发消息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.Lable控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/2.Lable控件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="发邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/收发邮件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="简单实例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lxr\Desktop\PythonStudy\Tkinter\1.简单实例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="@property" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property/@property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="发邮件QQ邮箱" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/收发邮件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件QQ邮箱.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="运算重载符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/运算重载符" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/运算重载符/运算重载符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多态实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="对象属性和类属性简介" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="追溯法字母排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/脚本工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/脚本工具/追溯法字母排列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2.Lable控件" />
+        <item itemvalue="Python.简单实例" />
+        <item itemvalue="Python.发消息" />
+        <item itemvalue="Python.发邮件QQ邮箱" />
+        <item itemvalue="Python.发邮件" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22f97ccc-28d9-449c-870f-a3db7367d216" name="Default Changelist" comment="" />
+      <created>1547033226500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547033226500</updated>
+      <workItem from="1547033235089" duration="161000" />
+      <workItem from="1547033482293" duration="5808000" />
+      <workItem from="1547095408120" duration="5786000" />
+      <workItem from="1547270235088" duration="280000" />
+      <workItem from="1547270878273" duration="8579000" />
+      <workItem from="1547280923711" duration="140000" />
+      <workItem from="1547281221648" duration="28000" />
+      <workItem from="1547281276793" duration="234000" />
+      <workItem from="1547281558715" duration="16000" />
+      <workItem from="1547281601723" duration="252000" />
+      <workItem from="1547282415926" duration="8860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="239" y="137" width="894" height="562" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33573142" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.729572" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49766356" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python编程思想/dict[字典类型]/字典简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/写文件的简单方式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/a">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/读文件的完整过程.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/写文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/with的状态伴随.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/list-tuple-dict-set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/函数也是一种数据类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/读文件.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/写文件的缓冲区满了.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/文件的读写/编码和解码.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/脚本工具/temp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/模块/__name__属性.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/模块/__name__属性的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/list[列表类型]/list列表.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/list[列表类型]/list操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/list[列表类型]/list方法.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/脚本工具/追溯法字母排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/脚本工具/字母排列组合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/father.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/mother.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/child.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/多继承实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/单继承实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/person.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/mouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/cat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/运算重载符/运算重载符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property/@property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/python/sms3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/收发邮件/接口信息">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/收发邮件/发消息QQ邮箱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#46#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/收发邮件/发邮件QQ邮箱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/收发邮件/发邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/收发邮件/发消息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter/1.简单实例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter/2.Lable控件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

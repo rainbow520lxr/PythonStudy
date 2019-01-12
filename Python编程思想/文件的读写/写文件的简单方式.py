@@ -1,4 +1,4 @@
-pat = "a.txt"
+path = "a.txt"
 
 with open(path, "a") as f2:
-    fs.write("lxr is a good man!")
+    f2.write("lxr is a good man!")

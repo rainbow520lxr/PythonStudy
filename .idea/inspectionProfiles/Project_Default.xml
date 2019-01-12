@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Python编程思想.面向对象的编程思想.多继承.Child.Father" />
+          <option value="Python编程思想.面向对象的编程思想.多继承.多继承实现.Child" />
+          <option value="Python编程思想.收发邮件.发邮件.msg" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
