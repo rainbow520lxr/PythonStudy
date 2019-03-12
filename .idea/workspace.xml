@@ -5,227 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22f97ccc-28d9-449c-870f-a3db7367d216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/11.listbox列表控件之下.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/12.listBox列表控件之下1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/turtle模块绘图/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/包/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/包/a/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/包/b/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/receipt/ihuyi_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/变量与常量/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python编程思想/变量与常量/变量的作用域/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/密码破解/密码破解.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式概述-re模块简述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式的元字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/写csv文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/读csv文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.带滚动条的text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/13.带滚动条的text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/BooleanNoneNull[特殊类型]/布尔值与空值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/BooleanNoneNull[特殊类型]/布尔值与空值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/OS模块/OS模块简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/OS模块/OS模块简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/OS模块/os.path模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/OS模块/os.path模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/dict[字典类型]/字典简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/dict[字典类型]/字典简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/dict[字典类型]/字典统计字符串中单词数量.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/dict[字典类型]/字典统计字符串中单词数量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/list[列表类型]/list列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/list[列表类型]/list列表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/list[列表类型]/list操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/list[列表类型]/list操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/list[列表类型]/list方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/list[列表类型]/list方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/list[列表类型]/深浅拷贝地址变化.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/list[列表类型]/深浅拷贝地址变化.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/number[数字类型]/数字类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/number[数字类型]/数字类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/number[数字类型]/赋值运算.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/number[数字类型]/赋值运算.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/set[集合数据类型]/set简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/set[集合数据类型]/set简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/set[集合数据类型]/类型转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/set[集合数据类型]/类型转换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/set[集合数据类型]/集合的运算.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/set[集合数据类型]/集合的运算.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串[比较大小].py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串[比较大小].py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串is类方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串is类方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串与列表相互转换[文本解析].py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串与列表相互转换[文本解析].py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串判断开始和结尾.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串判断开始和结尾.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/string[字符串类型]/字符串替换与映射.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串替换与映射.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/tuple[元祖类型]/tuple元组简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/tuple[元祖类型]/tuple元组简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/tuple[元祖类型]/tuple的内存结构.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/tuple[元祖类型]/tuple的内存结构.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/tuple[元祖类型]/元组的操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/tuple[元祖类型]/元组的操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/tuple[元祖类型]/元组的方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/tuple[元祖类型]/元组的方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/turtle模块绘图/turtle模块绘图.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/turtle模块绘图/turtle模块绘图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/偏函数/偏函数简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/偏函数/偏函数简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数-递归/递归简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数-递归/递归简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/不定长参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/不定长参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/传递参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/传递参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/值传递和引用传递.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/值传递和引用传递.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/关键字参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/关键字参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/函数简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/函数简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/匿名函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/匿名函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/堆栈区的工作原理.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/堆栈区的工作原理.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/函数/默认参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/函数/默认参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/包/a/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/包/a/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/包/b/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/包/b/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/包/a/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/包/包简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/包/包简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/变量的作用域/变量的作用域简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/变量与常量/变量的作用域/变量的作用域简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/异常处理/try...except...finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/9.异常处理/try...except...finally.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/异常处理/异常处理简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/9.异常处理/异常处理简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/异常处理/异常捕获特殊情况.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/9.异常处理/异常捕获特殊情况.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/异常处理/断言.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/9.异常处理/断言.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/break语句与continue语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/break语句与continue语句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/for与集合表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/for与集合表达式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/while死循环与非死循环else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/while死循环与非死循环else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/while语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/while语句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/单支条件控制语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/单支条件控制语句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/在集合中的for循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/在集合中的for循环.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/控制流/多条件控制语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/控制流/多条件控制语句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Web.Config" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Web.Config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/reg.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/reg.aspx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/code.asp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/code.asp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/reg.asp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/reg.asp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/sms.asp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ASP/sms.asp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/C++/sms.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/C++/sms.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/C/sms.c" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/C/sms.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dof" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dof" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dpr" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dpr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj.local" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj.local" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.res" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dcu" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dcu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.ddp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.ddp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dfm" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dfm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.pas" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.pas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.dcu" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.dcu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.pas" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.pas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Excel/sms.xlsm" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/Excel/sms.xlsm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/GO/sms.go" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/GO/sms.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/code.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/code.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/reg.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/reg.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/sms.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/JSP/sms.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/receipt/ihuyi_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/receipt/receipt.php" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/receipt/receipt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/code.php" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/code.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/config.ihuyi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/config.ihuyi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/font.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/sms.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/PHP/sms/sms.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frm" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frx" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Mswinsck.OCX" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/Mswinsck.OCX" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/uft8.bas" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/uft8.bas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbp" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbw" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/注册ocx.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/VB6/注册ocx.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/sendsms.class" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/sendsms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/util/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/util/StringUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-codec-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-codec-1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-httpclient-3.0-rc4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-httpclient-3.0-rc4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-logging-1.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/dom4j-1.6.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/sendsms.java" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/sendsms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/util/StringUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi(spidex2.1.2).js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi(spidex2.1.2).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/node.js/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/python/sms2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/python/sms2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/python/sms3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/python/sms3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ruby/sms.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/ruby/sms.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/shell/sms.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/shell/sms.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/data/getnum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/data/getnum.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/data/submit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/data/submit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/sms.e" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/sms.e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/sms.ec" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/sms.ec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/短信接口使用例程.e" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/DEMO/易语言/短信接口使用例程.e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-安全防护方案.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-安全防护方案.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-快速入门v1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-快速入门v1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-短信验证码接口文档v3.3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-短信验证码接口文档v3.3.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-短信验证码通知-使用指南.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/ihuyi-sms-3.3/互亿无线-短信验证码接口文档/互亿无线-短信验证码通知-使用指南.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/发消息.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/发消息.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/发邮件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/发邮件QQ邮箱.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/发邮件QQ邮箱.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/收发邮件/接口信息" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/API-验证码和收发邮件/接口信息" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/数学函数/数学函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/数学函数/数学函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/a" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/list-tuple-dict-set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/list-tuple-dict-set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/with的状态伴随.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/with的状态伴随.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/写文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/写文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/写文件的简单方式.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/写文件的简单方式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/写文件的缓冲区满了.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/写文件的缓冲区满了.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/函数也是一种数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/函数也是一种数据类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/编码和解码.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/编码和解码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/读文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/读文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/文件的读写/读文件的完整过程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/读文件的完整过程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/日历模块/日历模块简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/日历模块/日历模块简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/datatime模块简介.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/datetime特殊方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/time其他重要操作方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/time格式显示方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/time模块简介.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/时间元组_时间字符串_时间戳互转.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/时间模块/计算机性能测试.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/栈和队列/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/栈和队列/栈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/栈和队列/队列堆列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/1.python数据结构/栈和队列/队列堆列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/__name__属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/__name__属性.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/__name__属性的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/__name__属性的使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/8.包与directory/包/b/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/使用标准库中的模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/使用标准库中的模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/使用自定义模块(from ... import 星).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/使用自定义模块(from ... import 星).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/使用自定义模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/使用自定义模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/使用自定义模块（from ...import ...).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/使用自定义模块（from ...import ...).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/模块概述.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/模块概述.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/第三方包（库）安装和使用/Pillow模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/第三方包（库）安装和使用/Pillow模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/第三方包（库）安装和使用/安装第三方模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/第三方包（库）安装和使用/安装第三方模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/模块/自定义模块/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/模块/自定义模块/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/注释/注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/5.注释/注释.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/装饰器/装饰器的简洁使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/装饰器/装饰器的简洁使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/装饰器/装饰器简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/装饰器/装饰器简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/装饰器/通用装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/3.函数/装饰器/通用装饰器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/迭代器/迭代器简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/4.控制结构/迭代器/迭代器简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property/@property.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/@property/@property.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/self.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/self.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/mouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/mouse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/多态实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/多态简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/child.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/child.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/father.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/father.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/mother.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/mother.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多继承/多继承实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/多继承实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/实例化对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/实例化对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象的初始状态（构造函数）.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/对象的初始状态（构造函数）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/析构函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/析构函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/类.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/类.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/继承/person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/继承/student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/继承/单继承实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/继承/单继承实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/访问对象的属性与方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/访问对象的属性与方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/访问限制.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/访问限制.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/运算重载符/运算重载符.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/运算重载符/运算重载符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/重写__repr__与__str__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/重写__repr__与__str__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/面向对象与面向过程" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/面向对象与面向过程" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/1.简单实例.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/1.简单实例.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/10.listbox列表控件之中.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/10.listbox列表控件之中.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/2.Lable控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/2.Lable控件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/3.Button控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/3.Button控件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/4.Entry控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/4.Entry控件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/5.点击按钮输出输入框的内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/5.点击按钮输出输入框的内容.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/6.text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/6.text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/7.CheckButton多选框控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/7.CheckButton多选框控件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/8.单选框框控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/8.单选框框控件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/9.listbox列表框控件之上.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/9.listbox列表框控件之上.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN学习/.idea/CNN学习.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN学习/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN学习/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN学习/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN学习/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN学习/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,10 +26,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonStudy$csv.coverage" NAME="写csv文件 Coverage Results" MODIFIED="1551188584546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件" />
+    <SUITE FILE_PATH="coverage/PythonStudy$_re.coverage" NAME="正则表达式概述-re模块简述 Coverage Results" MODIFIED="1551237764466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python编程思想/正则表达式" />
     <SUITE FILE_PATH="coverage/PythonStudy$Button.coverage" NAME="Button控件 Coverage Results" MODIFIED="1547456936808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$5_.coverage" NAME="5.点击按钮输出输入框的内容 Coverage Results" MODIFIED="1547457661294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$7_CheckButton.coverage" NAME="7.CheckButton多选框控件 Coverage Results" MODIFIED="1547470565187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
-    <SUITE FILE_PATH="coverage/PythonStudy$.coverage" NAME="简单实例 Coverage Results" MODIFIED="1547296493478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
+    <SUITE FILE_PATH="coverage/PythonStudy$.coverage" NAME="正则表达式的元字符 Coverage Results" MODIFIED="1551240082082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python编程思想/正则表达式" />
     <SUITE FILE_PATH="coverage/PythonStudy$10_listbox.coverage" NAME="10.listbox控件中 Coverage Results" MODIFIED="1547472756222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonStudy$_property.coverage" NAME="@property Coverage Results" MODIFIED="1547277907109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property" />
     <SUITE FILE_PATH="coverage/PythonStudy$9_listbox.coverage" NAME="9.listbox列表框控件上 Coverage Results" MODIFIED="1547472859033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
@@ -251,7 +45,26 @@
     <SUITE FILE_PATH="coverage/PythonStudy$7_text.coverage" NAME="7.带滚动条的text Coverage Results" MODIFIED="1547458478917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式概述-re模块简述.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式的元字符.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -305,14 +118,23 @@
         <option value="$PROJECT_DIR$/Tkinter/11.listbox列表控件之下.py" />
         <option value="$PROJECT_DIR$/Tkinter/12.listBox列表控件之下1.py" />
         <option value="$PROJECT_DIR$/Python编程思想/2.模块库/readme" />
+        <option value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/test.CSV" />
+        <option value="$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/编码和解码.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/demo.csv" />
+        <option value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/读csv文件.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/写csv文件.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/密码破解/密码破解.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式概述.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式概述-re模块简述.py" />
+        <option value="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式的元字符.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="287" />
-    <option name="y" value="3" />
-    <option name="width" value="894" />
-    <option name="height" value="575" />
+    <option name="x" value="66" />
+    <option name="y" value="92" />
+    <option name="width" value="1288" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -322,6 +144,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PythonStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -329,16 +162,10 @@
               <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Python编程思想" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,18 +173,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\收发邮件" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\2.模块库" />
       <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想" />
       <recent name="C:\Users\lxr\Desktop\PythonStudy\Tkinter" />
       <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\变量与常量" />
       <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\8.包" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lxr\Desktop\PythonStudy\Python编程思想\收发邮件" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -372,7 +199,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12.listBox列表控件之下1">
+  <component name="RunManager" selected="Python.@property">
+    <configuration name="正则表达式概述-re模块简述" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/正则表达式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式概述-re模块简述.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="动态给实例添加属性和方法并使用" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -387,116 +236,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/动态给实例添加属性和方法并使用/动态给实例添加属性和方法并使用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10.listbox控件中" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\lxr\Desktop\PythonStudy\Tkinter\10.listbox列表控件之中.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11.listbox列表控件之下" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/11.listbox列表控件之下.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12.listBox列表控件之下1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/12.listBox列表控件之下1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8.单选框框控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/8.单选框框控件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9.listbox列表框控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\lxr\Desktop\PythonStudy\Tkinter\9.listbox列表框控件之上.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -541,6 +280,116 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/@property/@property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多态实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="对象属性和类属性简介" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="追溯法字母排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/脚本工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/脚本工具/追溯法字母排列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="密码破解" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/密码破解" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/密码破解/密码破解.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="正则表达式的元字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/正则表达式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式的元字符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -637,7 +486,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="多态实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="读csv文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -645,12 +494,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/多态/多态实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/读csv文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -659,7 +508,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="对象属性和类属性简介" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="写csv文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -667,34 +516,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="追溯法字母排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程思想/脚本工具" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/脚本工具/追溯法字母排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/写csv文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -705,11 +532,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12.listBox列表控件之下1" />
-        <item itemvalue="Python.11.listbox列表控件之下" />
-        <item itemvalue="Python.10.listbox控件中" />
-        <item itemvalue="Python.9.listbox列表框控件" />
-        <item itemvalue="Python.8.单选框框控件" />
+        <item itemvalue="Python.正则表达式概述-re模块简述" />
+        <item itemvalue="Python.读csv文件" />
       </list>
     </recent_temporary>
   </component>
@@ -739,30 +563,36 @@
       <workItem from="1547455399678" duration="3124000" />
       <workItem from="1547468969290" duration="4461000" />
       <workItem from="1547491498081" duration="3197000" />
+      <workItem from="1551181432966" duration="609000" />
+      <workItem from="1551182156189" duration="2143000" />
+      <workItem from="1551184654816" duration="258000" />
+      <workItem from="1551184961694" duration="10090000" />
+      <workItem from="1551714004988" duration="246000" />
+      <workItem from="1551714419879" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42420000" />
+    <option name="totallyTimeSpent" value="55974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35325265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.72923076" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3353846" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5188356" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29692307" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5723077" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32923076" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32923076" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.2646154" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -775,95 +605,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python编程思想/脚本工具/字母排列组合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/father.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/mother.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/child.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多继承/多继承实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/继承/student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/继承/单继承实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/继承/person.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/多态实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/mouse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/animal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/对象属性和类属性/对象属性和类属性简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python编程思想/10.面向对象的编程思想/多态/person.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1065,9 +806,6 @@
         <state relative-caret-position="-245" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程思想/格式化输出/格式化输出.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python编程思想/2.模块库/Tkinter/12.listBox列表控件之下1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1088,5 +826,114 @@
     <entry file="file://$PROJECT_DIR$/Python编程思想/2.模块库/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/写文件.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/test.CSV" />
+    <entry file="file://$PROJECT_DIR$/Python编程思想/格式化输出/格式化输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-581" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/6.IO流/文件的读写/编码和解码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/demo.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/writer.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/写csv文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/自动化办公/读写csv文件/读csv文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/密码破解/密码破解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#7#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/1.python数据结构/string[字符串类型]/字符串与列表相互转换[文本解析].py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式概述-re模块简述.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程思想/正则表达式/正则表达式的元字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
