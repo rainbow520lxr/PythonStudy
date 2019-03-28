@@ -42,7 +42,7 @@ print(re.search(r"er\b", "never nihao"))
 
 print("-------------匹配多个字符----------------)")
 '''
-
+在前面加r表示原生字符字符串内的\就不会被转义
 说明：下方的x、y、z均为假设的普通字符，不是正则表达式的元字符
 （xyz)  匹配小括号内的xyz(作为一个整体去匹配）
 x?      匹配0个或者1个x
@@ -66,4 +66,18 @@ print(re.findall(r"((s|S)unck)", "sunck--Sunck"))
 #需求，提取sunck....man,
 str = "sunck is a good man!sunck is a nice man!sunck is a good man!"
 
-print(re.findall(r""))
+print(re.findall(r"^sunck.*man$", str))
+
+print("- - - - - - - - - - - - - - - - 特殊 - - - - - - - - - - - - - - - - - ")
+'''
+*?  +?  x? 最小匹配 通常都是尽可能多的匹配，可以使用这种解贪婪匹配
+
+(? : x)   类似（xyz)，但不表示一个组
+'''
+print(re.findall(r"^sunck.*?man$", str))
+#注释： /* part1 */    /*   part2    */
+
+print(re.findall((r"//*.*/*/", r"/* part1 */    /*    part2    */")))
+
+
+
