@@ -29,6 +29,9 @@ def getImageInfo(image):
 src = cv.imread(r"C:\Users\lxr\Desktop\girl.jpg")
 '''2.创建一个GUI显示'''
 cv.namedWindow("inputimage", cv.WINDOW_AUTOSIZE)
+cv.namedWindow("inputimage", 0)
+'''调整窗口大小'''
+cv.resizeWindow("inputimage", 640, 480);
 '''3.显示图片窗口'''
 cv.imshow("inputimage", src)
 

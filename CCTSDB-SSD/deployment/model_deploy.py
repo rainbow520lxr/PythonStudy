@@ -76,13 +76,13 @@ clones:
     * clones: List of `Clone` tuples returned by `create_clones()`.
 
 DeploymentConfig parameters:
-    * num_clones: Number of model clones to deploy in each replica.
-    * clone_on_cpu: True if clones should be placed on CPU.
+    * num_clones: Number of model clones to deploy in each replica. 要在每个副本中部署的模型克隆数
+    * clone_on_cpu: True if clones should be placed on CPU.   如果克隆应放在CPU上，则为True
     * replica_id: Integer.  Index of the replica for which the model is
-            deployed.  Usually 0 for the chief replica.
-    * num_replicas: Number of replicas to use.
-    * num_ps_tasks: Number of tasks for the `ps` job. 0 to not use replicas.
-    * worker_job_name: A name for the worker job.
+            deployed.  Usually 0 for the chief replica.   为其部署模型的副本的索引。主要副本通常为0。
+    * num_replicas: Number of replicas to use.     要使用的副本数。
+    * num_ps_tasks: Number of tasks for the `ps` job. 0 to not use replicas.   `ps`作业的任务数。 0不使用副本。
+    * worker_job_name: A name for the worker job.    工作者姓名。
     * ps_job_name: A name for the parameter server job.
 
 TODO(sguada):

@@ -2,8 +2,8 @@ import os
 import cv2 as cv
 
 
-in_path = r"C:\Users\lxr\Desktop\CCTSDB\Images"
-out_path = r"C:\Users\lxr\Desktop\CCTSDB-VOC2007\JPEGImages"
+in_path = r"D:\CCTSDB\Images"
+out_path = r"D:\CCTSDB-VOC2007\JPEGImages"
 # print(path)
 
 def main():
@@ -18,6 +18,7 @@ def main():
                 # cv2.imshow("Image",img)
                 # cv2.waitKey(0)
                 cv.imwrite(os.path.join(out_path, newfilename), img)
+                print(newfilename+":JPG照片存入成功")
 
 if __name__ == "__main__":
     main()

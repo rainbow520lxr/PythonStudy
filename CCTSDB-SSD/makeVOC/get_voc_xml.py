@@ -7,8 +7,8 @@ import cv2 as cv
 DIRECTORY_ANNOTATIONS = "Annotations/"
 DIRECTORY_IMAGES = "JPEGImages/"
 
-path = r"C:\Users\lxr\Desktop\CCTSDB\GroundTruth"
-vocpath = r"C:\Users\lxr\Desktop\CCTSDB-VOC2007"
+path = r"D:\CCTSDB\GroundTruth"
+vocpath = r"D:\CCTSDB-VOC2007"
 
 #获取GroundTruth/中的所有grouthtrue
 def get_filenames(fileMap):
@@ -113,11 +113,13 @@ def main():
         img = cv.imread(os.path.join(imgdir, imgname))
         imgsize = img.shape
         writeInfoToXml(fileMap, imgname, imgsize)
+        print(imgname+":存入成功")
     print("成功写入!")
 
     # for k in fileMap:
     #     print(k + ":\n")
     #     print(fileMap[k])
+
 
 if __name__ == "__main__":
     main()

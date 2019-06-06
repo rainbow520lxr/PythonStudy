@@ -127,6 +127,11 @@ def _process_image(directory, name):
                        float(bbox.find('ymax').text) / shape[0],
                        float(bbox.find('xmax').text) / shape[1]
                        ))
+        # bboxes.append((max(float(bbox.find('ymin').text) / shape[0], 0.0),
+        #                max(float(bbox.find('xmin').text) / shape[1], 0.0),
+        #                min(float(bbox.find('ymax').text) / shape[0], 1.0),
+        #                min(float(bbox.find('xmax').text) / shape[1], 1.0)
+        #                ))
     return image_data, shape, bboxes, labels, labels_text, difficult, truncated
 
 

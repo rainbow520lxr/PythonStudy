@@ -7,8 +7,8 @@ import random
 
 trainval_percent = 0.7
 train_percent = 0.8
-xmlfilepath = r'C:\Users\lxr\Desktop\CCTSDB-VOC2007\Annotations'           #写自己的路径
-txtsavepath = r'C:\Users\lxr\Desktop\CCTSDB-VOC2007\ImageSets\Main'        #写自己路径
+xmlfilepath = r'D:\CCTSDB-VOC2007\Annotations'           #写自己的路径
+txtsavepath = r'D:\CCTSDB-VOC2007\ImageSets\Main'        #写自己路径
 total_xml = os.listdir(xmlfilepath)
 
 def main():

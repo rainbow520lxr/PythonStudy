@@ -1,7 +1,7 @@
 ::这里设置SSD训练参数
 ::--checkpoint_path=${CHECKPOINT_PATH}^
 ::数据集的flag--max_number_of_steps=5000训练最大步数
-set DATASET_DIR=C:\Users\lxr\Desktop\CCTSDB-TF
+set DATASET_DIR=D:\CCTSDB-TF
 set TRAIN_DIR=../logs/ssd_300_vgg_3
 set CHECKPOINT_PATH=./checkpoints/ssd_300_vgg.ckpt
 python ../train_ssd_network.py^
@@ -17,5 +17,6 @@ python ../train_ssd_network.py^
     --learning_rate=0.001^
     --learning_rate_decay_factor=0.95^
     --batch_size=32^
-    --max_number_of_steps=5000
+    --max_number_of_steps=5000^
+    --clone_on_cpu=true
 

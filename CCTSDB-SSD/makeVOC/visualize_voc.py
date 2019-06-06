@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import  cv2 as cv
 import xml.etree.ElementTree as ET
 
-DIRECTORY_ANNOTATIONS = r"C:\Users\lxr\Desktop\CCTSDB-VOC2007\Annotations"
-DIRECTORY_IMAGES = r"C:\Users\lxr\Desktop\CCTSDB-VOC2007\JPEGImages"
+DIRECTORY_ANNOTATIONS = r"D:\CCTSDB-VOC2007\Annotations"
+DIRECTORY_IMAGES = r"D:\CCTSDB-VOC2007\JPEGImages"
 
 
 def plt_gboxes(img, names, boxes, figsize=(10,10), linewidth=1.5):
@@ -57,10 +57,10 @@ def show(no):
     for obj in root.findall('object'):
         names.append(obj.find('name').text)
         bndbox = obj.find('bndbox')
-        boxes.append([int(bndbox.find('xmin').text),
-                      int(bndbox.find('ymin').text),
-                      int(bndbox.find('xmax').text),
-                      int(bndbox.find('ymax').text),
+        boxes.append([float(bndbox.find('xmin').text),
+                      float(bndbox.find('ymin').text),
+                      float(bndbox.find('xmax').text),
+                      float(bndbox.find('ymax').text),
                       ])
     # 渲染
     plt_gboxes(img, names, boxes)
