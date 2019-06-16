@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9cc9af6-92cc-41c0-a449-ef2f60c289c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EmotionRecognition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/fer2013/fer2013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/utils/tfrecord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_emotion_network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_ssd_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python编程思想/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python编程思想/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python编程思想/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python编程思想/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_ssd_network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5434">
+              <caret line="293" column="40" selection-start-line="293" selection-start-column="40" selection-end-line="293" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1013586911/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68932">
+              <caret line="3628" column="8" selection-start-line="3628" selection-start-column="8" selection-end-line="3628" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nets/xception.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="91" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nets/vgg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2280">
+              <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nets/nets_factory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+              <folding>
+                <element signature="e#741#757#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keras/train_newface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keras/train_github.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#184#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/keras/models_github.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5890">
+              <caret line="310" column="13" selection-start-line="310" selection-start-column="13" selection-end-line="310" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3439">
+              <caret line="185" column="4" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>preprocessing_name</find>
+      <find>gpu</find>
+      <find>devi</find>
+      <find>clone_on_cpu</find>
+      <find>image_preprocessing_fn</find>
+      <find>sess</find>
+      <find>summary_op</find>
+      <find>global_step</find>
+      <find>learning_rate_decay_type</find>
+      <find>learning</find>
+      <find>update_ops</find>
+      <find>moving_average_variables</find>
+      <find>create_train_op</find>
+      <find>train_dir</find>
+      <find>save_summaries_secs</find>
+      <find>num_preprocessing_threads</find>
+      <find>log_every_n_steps</find>
+      <find>weight_decay</find>
+      <find>adadelta_rho</find>
+      <find>save_interval_secs</find>
+      <find>train_image_size</find>
+      <find>num_readers</find>
+      <find>num_epochs_per_decay</find>
+      <find>SPLITS_TO_SIZES</find>
+      <find>resne</find>
+      <find>checkpoint_path</find>
+      <find>ignore_missing_vars</find>
+      <find>checkpoint_model_scope</find>
+      <find>moving_average_decay</find>
+      <find>variable_averages</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>config</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deployment/model_deploy.py" />
+        <option value="$PROJECT_DIR$/train_emotion.py" />
+        <option value="$PROJECT_DIR$/datasets/dataset2tfrecord.py" />
+        <option value="$PROJECT_DIR$/datasets/dataset_ to_tfrecords.py" />
+        <option value="$PROJECT_DIR$/datasets/tfrecord.py" />
+        <option value="$PROJECT_DIR$/datasets/fer2013.py" />
+        <option value="$PROJECT_DIR$/preprocessing/preprocessing_factory.py" />
+        <option value="$PROJECT_DIR$/nets/nets_factory.py" />
+        <option value="$PROJECT_DIR$/datasets/fer2013_ to_tfrecords.py" />
+        <option value="$PROJECT_DIR$/datasets/dataset_factory.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/train_emotion_network.py" />
+        <option value="$PROJECT_DIR$/keras/train_newface.py" />
+        <option value="$PROJECT_DIR$/nets/xception.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-42" />
+    <option name="y" value="50" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EmotionRecognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmotionRecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\EmotionRecognition" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\EmotionRecognition\datasets\imagenet" />
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\EmotionRecognition\datasets\pascalvoc_2007" />
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\EmotionRecognition\datasets\fer2013" />
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\EmotionRecognition\datasets\utils" />
+      <recent name="C:\Users\lxr\Desktop\PythonStudy\EmotionRecognition\keras" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EmotionRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9cc9af6-92cc-41c0-a449-ef2f60c289c0" name="Default Changelist" comment="" />
+      <created>1560261484291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560261484291</updated>
+      <workItem from="1560261492948" duration="40370000" />
+      <workItem from="1560503456474" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40764000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21538462" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EmotionRecognition$test.coverage" NAME="test Coverage Results" MODIFIED="1560503548536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/keras/preprocessing/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="412" column="8" selection-start-line="412" selection-start-column="8" selection-end-line="412" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/densenet169_transfer_train.py" />
+    <entry file="file://$PROJECT_DIR$/datasets/dataset2tfrecord.py" />
+    <entry file="file://$PROJECT_DIR$/nets/ssd_common.py" />
+    <entry file="file://$PROJECT_DIR$/nets/ssd_vgg_300.py" />
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/contrib/slim/python/slim/data/parallel_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="97" column="6" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/contrib/slim/python/slim/data/dataset_data_provider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/ssd_vgg_preprocessing.py" />
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/core/protobuf/config_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1435">
+          <caret line="1138" selection-start-line="1138" selection-end-line="1138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="5787" column="2" selection-start-line="5787" selection-start-column="2" selection-end-line="5787" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/model_deploy.py" />
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/contrib/framework/python/ops/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="141" column="31" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/vgg_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/python/keras/testing_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="318" column="9" selection-start-line="318" selection-start-column="9" selection-end-line="318" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/python/training/training_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="114" column="9" selection-start-line="114" selection-start-column="2" selection-end-line="114" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/pascalvoc_2007/pascalvoc_to_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+          <folding>
+            <element signature="e#2272#2281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/utils/dataset_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/utils/tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="50" column="56" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="56" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/imagenet/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+          <folding>
+            <element signature="e#1465#1503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/fer2013/fer2013_ to_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/fer2013/fer2013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/tf_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/inception_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="276" column="20" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="20" />
+          <folding>
+            <element signature="e#764#802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/preprocessing_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#740#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/pascalvoc_2007/pascalvoc_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="16" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/pascalvoc_2007/pascalvoc_2007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#751#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <element signature="e#768#806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/keras/layers/normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="429" column="4" selection-start-line="429" selection-start-column="4" selection-end-line="429" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_emotion_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="72" column="67" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ssd_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5434">
+          <caret line="293" column="40" selection-start-line="293" selection-start-column="40" selection-end-line="293" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1013586911/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68932">
+          <caret line="3628" column="8" selection-start-line="3628" selection-start-column="8" selection-end-line="3628" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nets/xception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="91" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nets/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nets/nets_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+          <folding>
+            <element signature="e#741#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras/train_newface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras/train_github.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#184#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3439">
+          <caret line="185" column="4" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras/models_github.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5890">
+          <caret line="310" column="13" selection-start-line="310" selection-start-column="13" selection-end-line="310" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Python编程思想.iml" filepath="$PROJECT_DIR$/.idea/Python编程思想.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EmotionRecognition.iml" filepath="$PROJECT_DIR$/.idea/EmotionRecognition.iml" />
     </modules>
   </component>
 </project>
