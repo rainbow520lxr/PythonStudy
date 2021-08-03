@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "spidex": "^1.0.8",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {},
   "scripts": {
